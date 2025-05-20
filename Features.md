@@ -21,8 +21,9 @@ Random features of Go;
 
 
 10. Loops in GO;
-1. you only have one type of loop i.e for loop ( can be used for all diffrent cases)
+* you only have one type of loop i.e for loop ( can be used for all diffrent cases)
 
 
 
 11. If statements, if else statements, continue, break
+12. Create diffrent function and can pass through 
